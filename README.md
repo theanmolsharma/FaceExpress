@@ -18,3 +18,4 @@ Open the project in VS Code(preferred) or any other development IDE.(The IDE sho
 Open the website on browser using local live server.
 
 ## License
+This software is licensed under the terms in the file named "LICENSE" in this directory.
